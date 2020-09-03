@@ -16,4 +16,4 @@ You have a fake api response that is being exported from `api.js`. The response 
 - setState
 - Event Handling in React
 
-![dog gif](react-events.gif)
+![dog gif](state-pairing-gif.gif)
