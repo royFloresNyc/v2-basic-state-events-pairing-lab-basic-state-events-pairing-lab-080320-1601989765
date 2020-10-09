@@ -39,6 +39,7 @@ html{
   display: flex;
   flex-direction: column;
   align-items: center;
+  padding: 20px;
   margin-right: 5px;
 }
 
@@ -72,4 +73,9 @@ html{
   margin-bottom: 60px;
   max-width: 10vw;
   max-height: 10vh;
+}
+
+.search-bar {
+    width: 95%;
+    text-align: left;
 }
